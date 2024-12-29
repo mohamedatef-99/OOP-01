@@ -47,6 +47,35 @@
             // 4. Abstraction 
             #endregion
 
+            // 1. Encapsulation
+            // seprate the data(Atributes) definition from its use
+
+            // 1. End user access data itself
+            // 2. No data validation
+            // 3. No read only filed
+
+            // Apply Encapsulation
+            // 1. Make all dat(Attributes) private
+            // 2. Access Data through
+                // 2.1. Setter and Getter method
+                // 2.2. Properties
+
+            Employee E01 = new Employee();
+            //E01.id = 1;
+            //E01.name = "Ahmed";
+            //E01.salary = 1000;
+
+            //Console.WriteLine(E01.id);
+            //Console.WriteLine(E01.name);
+            //Console.WriteLine(E01.salary);
+
+            //E01.SetId(1);
+            //E01.setName("Ahmed");
+            //E01.setSalary(-1000);
+
+            //Console.WriteLine(E01.getSalary());
+            //Console.WriteLine(E01.GetId());
+            //Console.WriteLine(E01.getName());
         }
     }
 }
