@@ -32,6 +32,21 @@
             #endregion
 
 
+            #region OOP
+            // OOP: Object Oriented Programming
+            // Programming Paradigm
+            // OOP : the paradigm use for build any software
+
+            // Class : Blueprint of the object
+            // Object : Instance of the class
+
+            // 4 Pillars of OOP
+            // 1. Encapsulation
+            // 2. Inheritance
+            // 3. Polymorphism
+            // 4. Abstraction 
+            #endregion
+
         }
     }
 }
