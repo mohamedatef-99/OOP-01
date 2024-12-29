@@ -13,6 +13,7 @@ namespace OOP_01
         private double salary;
 
 
+
         #region Apply Encapsulation using setter and getter methods
         // Apply Encapsulation using setter and getter methods
 
@@ -65,6 +66,59 @@ namespace OOP_01
         //    setName(name);
         //    setSalary(salary);
         //} 
+        #endregion
+
+        #region Apply Encapsulation using properties
+        //Apply Encapsulation using properties
+
+        // 1. Full Property
+        // 2. Auto Property
+        // 3. Special Property [Indexer]
+
+
+
+        // 1. Full Property
+        //public int Id
+        //{
+        //    // set
+        //    // get
+        //    set
+        //    {
+        //        id = value;
+        //    }
+        //    get
+        //    {
+        //        return id;
+        //    }
+        //}
+
+        //public string Name
+        //{
+        //    set
+        //    {
+        //        name = value;
+        //    }
+        //    get
+        //    {
+        //        return name;
+        //    }
+        //}
+
+        //public double Salary
+        //{
+        //    set
+        //    {
+        //        salary = value;
+        //    }
+
+        //    get
+        //    {
+        //        return salary;
+        //    }
+        //}
+
+        //// 2. Auto Property
+        //public string Address { set; get; } 
         #endregion
 
     }

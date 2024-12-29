@@ -76,6 +76,16 @@
             //Console.WriteLine(E01.getSalary());
             //Console.WriteLine(E01.GetId());
             //Console.WriteLine(E01.getName());
+
+            //E01.Id = 1;
+            //E01.Name = "Ahmdded";
+            //E01.Salary = 1000;
+            //E01.Address = "Cairo";
+
+            //Console.WriteLine(E01.Id);
+            //Console.WriteLine(E01.Name);
+            //Console.WriteLine(E01.Salary);
+            //Console.WriteLine(E01.Address);
         }
     }
 }
