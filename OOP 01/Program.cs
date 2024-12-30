@@ -93,6 +93,22 @@
             //phoneBook.AddPerson("Mohamed", 987654, 2);
 
             //Console.WriteLine(phoneBook.GetNumber("Ahmed"));
+
+
+            // Class : Reference Types : Heap
+            Car C01;
+            // Declare for Reference (Pointer) from type "Car"
+            // C01 : can refer to object from type "Car" or any calss inherited from "Car"
+            // C01 : refer to null
+            
+            C01 = new Car();
+            // New
+            // Allocate the required bytes in the heap for the object
+            // initialize the allocated bytes with the default values
+            // call user defined constructor if exsist
+            // assign the object to reference
+
+            Console.WriteLine(C01);
         }
     }
 }
