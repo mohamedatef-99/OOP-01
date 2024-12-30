@@ -86,6 +86,13 @@
             //Console.WriteLine(E01.Name);
             //Console.WriteLine(E01.Salary);
             //Console.WriteLine(E01.Address);
+
+            //PhoneBook phoneBook = new PhoneBook(3);
+            //phoneBook.AddPerson("Ahmed", 123456, 0);
+            //phoneBook.AddPerson("Ali", 654321, 1);
+            //phoneBook.AddPerson("Mohamed", 987654, 2);
+
+            //Console.WriteLine(phoneBook.GetNumber("Ahmed"));
         }
     }
 }
